@@ -17,7 +17,17 @@
 
 |  김다함 | 김제윤 |
 | :----------------------: | :----------------------: |
-| <p align="left"> - 회원가입/로그인 <br/> - 메인페이지 UI 및 기능 <br/> - About us 페이지 UI 및 기능 <br/> - 모집 안내 페이지 <br/> - 행사자료 페이지 <br/> 관리자 페이지(메인페이지 관리) </p> | <p align="left"> - 관리자 페이지 <br/>   - 지원자 목록 <br/>   - 지원자 선발/합격발표  <br/>   - 게시물 공개 여부 관리 <br/>   - 관리자 권한부여 등) <br/> - 학생 마이 페이지(지원서 제출, 합격 여부 확인) <br/> - 게시판 페이지 UI 및 기능 <br/>- FAQ 페이지 </p> |
+| <p align="left"> - 회원가입/로그인 <br/> - 메인페이지 UI 및 기능 <br/> - About us 페이지 UI 및 기능 <br/> - 모집 안내 페이지 <br/> - 행사자료 페이지 <br/> 관리자 페이지(메인페이지 관리) </p> | 
+<p align="left">
+- 관리자 페이지
+  - 지원자 목록
+  - 지원자 선발/합격발표
+  - 게시물 공개 여부 관리
+  - 관리자 권한부여 <br/>
+- 학생 마이 페이지(지원서 제출, 합격 여부 확인)
+<br/> - 게시판 페이지 UI 및 기능
+<br/>- FAQ 페이지
+</p> |
 
 <br/>
 
@@ -30,12 +40,15 @@
 
 ## 프로젝트 결과물
 ### 메인 페이지
+
 ![메인 페이지 이미지1](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuVI7V%2FbtsteSNXxdt%2F0FIcAvXFYJBFriKL0Ij6M0%2Fimg.png)
 
 ![메인 페이지 이미지2](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeuKeXD%2Fbtstg3Bl1tN%2FkQ5POiEggOjpL6g0jfUB8K%2Fimg.png)
 
+### About us 페이지
 ![About us 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyWlZr%2FbtstfmBkwxP%2FCvvg3aiBXh3Lsc6pLNZgmK%2Fimg.png)
 
+### 관리자 페이지
 ![지원하기/합격여부확인 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fn6dXz%2FbtstkUcUowL%2FDQn3iXNOxVR2BsH1OzveKK%2Fimg.png)
 
 ![관리자 권한 부여 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FblrDC5%2FbtstkXna3zh%2FPW76Z1grbmkfo7fUMZINbk%2Fimg.png)
@@ -46,6 +59,7 @@
 
 ![지원자 선발 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FWlVl3%2FbtstbbmRUF3%2FgX0dGp7H8dUIKSmR4MPEok%2Fimg.png)
 
+### 게시판 페이지(행사자료)
 ![행사 자료 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb161aQ%2FbtstlJ9Wh6U%2F4YXtMGRJ6npHd8jxJo76UK%2Fimg.png)
 
 <br/>
