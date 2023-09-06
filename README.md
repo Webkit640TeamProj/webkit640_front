@@ -32,8 +32,10 @@
 
 <br/>
 
-### 메인 페이지
 ---------------
+### 메인 페이지
+
+<br/>
 
 ![메인 페이지 이미지1](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuVI7V%2FbtsteSNXxdt%2F0FIcAvXFYJBFriKL0Ij6M0%2Fimg.png)
 
@@ -41,15 +43,15 @@
 
 <br/>
 
-### About us 페이지
 ---------------
+### About us 페이지
 
 ![About us 페이지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyWlZr%2FbtstfmBkwxP%2FCvvg3aiBXh3Lsc6pLNZgmK%2Fimg.png)
 
 <br/>
 
-### 관리자 페이지
 ---------------
+### 관리자 페이지
 
 ![지원하기/합격여부확인 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fn6dXz%2FbtstkUcUowL%2FDQn3iXNOxVR2BsH1OzveKK%2Fimg.png)
 
@@ -63,8 +65,8 @@
 
 <br/>
 
-### 게시판 페이지(행사자료)
 ---------------
+### 게시판 페이지(행사자료)
 
 ![행사 자료 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb161aQ%2FbtstlJ9Wh6U%2F4YXtMGRJ6npHd8jxJo76UK%2Fimg.png)
 
@@ -72,6 +74,6 @@
 
 ## 시연 영상
 
-[![WebKIT640](https://youtu.be/JHYD_qcCGSw)]
+[![WebKIT640]()](https://youtu.be/JHYD_qcCGSw)
 
 
