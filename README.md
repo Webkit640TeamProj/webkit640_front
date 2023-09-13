@@ -43,6 +43,8 @@
 * 메인 페이지 모집 카운트다운 UI 입니다.
 * 모집 기간 중에는 마감일까지 카운트다운이 실행되고, 모집 기간이 지나면 '교육중' 화면으로 바뀝니다.
 
+<br/>
+
 ![메인 페이지 이미지2](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeuKeXD%2Fbtstg3Bl1tN%2FkQ5POiEggOjpL6g0jfUB8K%2Fimg.png)
 
 * 메인 페이지에서 모집 정보를 확인할 수 있는 화면입니다.
@@ -65,11 +67,19 @@
 
 ![지원하기/합격여부확인 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fn6dXz%2FbtstkUcUowL%2FDQn3iXNOxVR2BsH1OzveKK%2Fimg.png)
 
+<br/>
+
 ![관리자 권한 부여 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FblrDC5%2FbtstkXna3zh%2FPW76Z1grbmkfo7fUMZINbk%2Fimg.png)
+
+<br/>
 
 ![메인페이지 관리 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb2vWqR%2FbtstfcyNi0c%2Full1IP0qq9b5Hx9l6XVsK0%2Fimg.png)
 
+<br/>
+
 ![게시물 열람 관리 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvYCkx%2Fbtstlny8rvn%2FB3pgQdzq6jpYxSoETH0Wtk%2Fimg.png)
+
+<br/>
 
 ![지원자 선발 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FWlVl3%2FbtstbbmRUF3%2FgX0dGp7H8dUIKSmR4MPEok%2Fimg.png)
 
