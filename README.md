@@ -74,6 +74,8 @@
 <br/>
 
 ![메인페이지 관리 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb2vWqR%2FbtstfcyNi0c%2Full1IP0qq9b5Hx9l6XVsK0%2Fimg.png)
+* 메인 페이지에 존재하는 모든 모집 정보를 관리자 권한으로 작성/수정할 수 있습니다.
+* 홍보 포스터 등 이미지 첨부파일(jpeg, png) 등록 시 메인 화면의 '모집 안내'에서 확인할 수 있습니다.
 
 <br/>
 
