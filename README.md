@@ -66,10 +66,15 @@
 ### 관리자 페이지
 
 ![지원하기/합격여부확인 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fn6dXz%2FbtstkUcUowL%2FDQn3iXNOxVR2BsH1OzveKK%2Fimg.png)
+* 학생 회원으로 로그인 후 '지원하기' 버튼 클릭 시 사용 가능한 서비스 입니다.
+* 지원서 양식을 다운로드 받아 함께 첨부한 뒤 제출하면 부트캠프 지원이 가능합니다.
+* 합격 발표 기간에 학생-마이페이지-합격여부에 들어가면 선발 결과를 확인할 수 있습니다.
 
 <br/>
 
 ![관리자 권한 부여 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FblrDC5%2FbtstkXna3zh%2FPW76Z1grbmkfo7fUMZINbk%2Fimg.png)
+* 2명 이상의 관리자를 필요로 할 때, 관리자 권한을 부여할 수 있습니다.
+* '관리자'회원으로 가입 후, 마스터 계정을 통해 허가 받으면 최종적으로 관리자 권한을 가지게 됩니다.
 
 <br/>
 
@@ -80,10 +85,14 @@
 <br/>
 
 ![게시물 열람 관리 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbvYCkx%2Fbtstlny8rvn%2FB3pgQdzq6jpYxSoETH0Wtk%2Fimg.png)
+* 수강 후기 게시판에 작성된 게시물들의 열람을 관리하는 페이지 입니다.
+* 부적합한 게시물을 작성할 시 관리자 권한에 따라 게시물을 비공개 처리 할 수 있습니다.
 
 <br/>
 
 ![지원자 선발 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FWlVl3%2FbtstbbmRUF3%2FgX0dGp7H8dUIKSmR4MPEok%2Fimg.png)
+* 관리자가 지원자를 선발할 수 있는 페이지 입니다.
+* 지원자 선발 -> 지원자 최종 선발 후 합격 발표가 이뤄집니다.
 
 <br/>
 
